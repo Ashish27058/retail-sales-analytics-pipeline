@@ -135,25 +135,4 @@ dbt test
 
 ---
 
-## Git Commit History (Sample)
 
-| Date | Commit | Description |
-|------|--------|-------------|
-| 2025-01-22 | `a1b2c3d` | Initial project scaffold and Snowflake DDL |
-| 2025-01-24 | `e4f5g6h` | ADF pipeline JSON — Copy Activities for all sources |
-| 2025-01-28 | `i7j8k9l` | Python ETL — DataValidator and SalesOrdersTransformer |
-| 2025-02-03 | `m1n2o3p` | DBT staging models — stg_sales_orders, stg_customers |
-| 2025-02-10 | `q4r5s6t` | DBT mart models — fact_sales incremental merge |
-| 2025-02-17 | `u7v8w9x` | Architecture diagram — SVG, 5-layer cloud design |
-| 2025-03-01 | `y1z2a3b` | Datadog integration — pipeline health dashboard |
-| 2025-03-15 | `c4d5e6f` | CI/CD — Jenkins pipeline for DBT automation |
-
----
-
-## Prepared For
-
-**Motion to Reopen (MTR) Filing**
-Beneficiary: Ashish Peddineni
-Employer: eCloud Optimum Corp
-HR Contact: Natasha Ivy (contact@ecloudoptimum.com | 609-786-2411)
-**MTR Deadline: July 13, 2026**
